@@ -1,0 +1,7 @@
+--- Framework Performance Comparison (Avg. Word Tokenization Time over 50 executions) ---
+Framework  Time (Seconds) 
+-------------------------
+NLTK       0.049032       
+TextBlob   0.070582       
+spaCy      0.100722       
+-------------------------
